@@ -18,7 +18,7 @@ markers <- list(
   Endothelial = c("PECAM1", "CDH5", "VWF"),
   Fibroblast  = c("COL1A1", "DCN", "LUM", "PDGFRA"),
   Muscle      = c("ACTA2", "MYH11", "DES"),
-  Neural      = c("S100B", "SOX10", "MPZ")
+  Schwann      = c("S100B", "SOX10", "MPZ")
 )
 ```
 
