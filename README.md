@@ -40,7 +40,7 @@ Start with [`environment/setup.md`](environment/setup.md) to get R, Bioconductor
 
 - [Single-cell best practices](https://www.sc-best-practices.org/preamble.html) — the deeper conceptual reference for the single-cell track
 - [DESeq2 vignette](https://bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html)
-- [Harvard Chan Bioinformatics Core training materials](https://hbctraining.github.io/) — good companion exercises for both tracks
+- [Harvard Chan Bioinformatics Core training materials](https://hbctraining.github.io/main/) — good companion exercises for both tracks
 
 ## License
 
