@@ -1,0 +1,9 @@
+*.rds
+*.h5
+*.fastq.gz
+*.bam
+*.bai
+salmon_index/
+star_index/
+*.Rhistory
+.Rproj.user/
